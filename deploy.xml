@@ -9,7 +9,7 @@
 	<property name="work.dir"    value="work"/>
 	<property name="war.dir"     value="war"/>
 	<property name="src.dir"      value="src"/>
-	<property name="web.dir"      value="WebContent"/>
+	<property name="web.dir"      value="Webcontent"/>
 
 
 	<!-- Define the CLASSPATH -->
